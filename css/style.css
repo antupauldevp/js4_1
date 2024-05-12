@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+body{
+    height: 1000px;
+}
+#clr{
+    background-color: red;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#clr .btn{
+    padding: 20px;
+    font-size: 15px;
+   font-weight: 600;
+   border-radius: 10px;
+
+}
